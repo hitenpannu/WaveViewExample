@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="audioPlotView">
+    <attr format="float" name="plotWidth"/>
+    <attr format="color|reference" name="plotColor"/>
+    <attr format="reference" name="plotBackground"/>
+    <attr format="integer" name="alphaForHistoryPath"/>
+  </declare-styleable>
+</resources>
